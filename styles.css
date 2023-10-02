@@ -10,3 +10,7 @@ body{
 div{
     text-align: center;
 }
+
+button{
+    border-color: blue;
+}
