@@ -16,3 +16,5 @@ countSubtractBtn.addEventListener('click', () => {
     count -= 1;
     countHeaDer.innerHTML = count;
 });
+
+const a = 1;
